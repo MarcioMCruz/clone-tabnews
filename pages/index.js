@@ -1,4 +1,9 @@
-function Home(){
-    return <><h1>Esse é o inicio do seu negócio na internet.</h1><h2>Eu Te amo!</h2></>
-} 
+function Home() {
+  return (
+    <>
+      <h1>UNYTELL</h1>
+      <h2>Márcio Cruz</h2>
+    </>
+  );
+}
 export default Home;
